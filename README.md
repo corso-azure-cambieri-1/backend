@@ -1,3 +1,7 @@
+> Applicazione per esercitazione pratica da migrare su Azure
+>
+> Attenzione a configurare correttamente il config della app in base all'ambiente!!!
+
 ![MongoDB and C# logo](./images/banner.png)
 
 ## Introduction
